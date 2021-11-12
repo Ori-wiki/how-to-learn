@@ -7,7 +7,7 @@
   }
 }
 .rotation-square {
-animation:rotation-square 20s linear infinite ;
+animation:rotation-square 20s linear infinite;
 }
 @keyframes rotation-triangle {
   from {
@@ -18,5 +18,5 @@ animation:rotation-square 20s linear infinite ;
   }
 }
 .rotation-triangle {
-animation:rotation-triangle 20s linear infinite ;
+animation:rotation-triangle 20s linear infinite;
 }
