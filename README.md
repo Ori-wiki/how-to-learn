@@ -1,4 +1,5 @@
 # Проект: Научиться учиться
+[:link: Просмотреть страницу в GitHub Pages](https://ori-wiki.github.io/how-to-learn/)
 
 ### Проектная работа: "Научиться учиться" от [Яндекс.Практикум](https://practicum.yandex.ru/web/)
 
